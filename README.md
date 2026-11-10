@@ -1,3 +1,7 @@
+<p>
+  <img src="docs/images/yon-logo.png" alt="Y:ON 로고" width="120" />
+</p>
+
 # Y:ON v1
 
 > **사용자가 기회를 찾는 것이 아니라, 기회가 사용자를 찾아오게 한다.**
@@ -61,7 +65,6 @@ Y:ON은 이 흐름을 **수집·정규화 → 신청 가능성 판정 → 검색
 
 ---
 
-<!--
 ## 2. Service Preview & Key Features
 
 ### 2.1. Service Preview
@@ -77,9 +80,6 @@ Y:ON은 이 흐름을 **수집·정규화 → 신청 가능성 판정 → 검색
 | 신청 가능성·관심 분야 기반 추천과 이유 | 저장 목록 조회 및 해제 |
 
 ### 2.2. Key Features
--->
-
-## 2. Key Features
 
 | 영역 | 주요 기능 |
 | --- | --- |
